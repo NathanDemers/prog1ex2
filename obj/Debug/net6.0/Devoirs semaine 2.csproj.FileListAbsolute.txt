@@ -1,0 +1,15 @@
+C:\Cegep\Prog\Devoirs semaine 2\bin\Debug\net6.0\Devoirs semaine 2.exe
+C:\Cegep\Prog\Devoirs semaine 2\bin\Debug\net6.0\Devoirs semaine 2.deps.json
+C:\Cegep\Prog\Devoirs semaine 2\bin\Debug\net6.0\Devoirs semaine 2.runtimeconfig.json
+C:\Cegep\Prog\Devoirs semaine 2\bin\Debug\net6.0\Devoirs semaine 2.dll
+C:\Cegep\Prog\Devoirs semaine 2\bin\Debug\net6.0\Devoirs semaine 2.pdb
+C:\Cegep\Prog\Devoirs semaine 2\obj\Debug\net6.0\Devoirs semaine 2.csproj.AssemblyReference.cache
+C:\Cegep\Prog\Devoirs semaine 2\obj\Debug\net6.0\Devoirs semaine 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cegep\Prog\Devoirs semaine 2\obj\Debug\net6.0\Devoirs semaine 2.AssemblyInfoInputs.cache
+C:\Cegep\Prog\Devoirs semaine 2\obj\Debug\net6.0\Devoirs semaine 2.AssemblyInfo.cs
+C:\Cegep\Prog\Devoirs semaine 2\obj\Debug\net6.0\Devoirs semaine 2.csproj.CoreCompileInputs.cache
+C:\Cegep\Prog\Devoirs semaine 2\obj\Debug\net6.0\Devoirs semaine 2.dll
+C:\Cegep\Prog\Devoirs semaine 2\obj\Debug\net6.0\refint\Devoirs semaine 2.dll
+C:\Cegep\Prog\Devoirs semaine 2\obj\Debug\net6.0\Devoirs semaine 2.pdb
+C:\Cegep\Prog\Devoirs semaine 2\obj\Debug\net6.0\Devoirs semaine 2.genruntimeconfig.cache
+C:\Cegep\Prog\Devoirs semaine 2\obj\Debug\net6.0\ref\Devoirs semaine 2.dll

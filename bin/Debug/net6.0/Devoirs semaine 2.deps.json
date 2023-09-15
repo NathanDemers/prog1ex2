@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Devoirs semaine 2/1.0.0": {
+        "runtime": {
+          "Devoirs semaine 2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Devoirs semaine 2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
